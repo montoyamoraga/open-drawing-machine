@@ -28,7 +28,10 @@ As of September 2020, we are using the following steps:
 
 ### Software Configuration
 
+On the G-code sender, you should program these:
 
+* $100 = 80, steps/mm for x axis
+* $101 = 80, steps/mm for y axis
 
 ## Hardware
 
