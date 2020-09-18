@@ -8,7 +8,9 @@ This project is a low cost, do it yourself pen plotter.
 
 ## Dependencies
 
+As of September 2020, we are using the following code:
 
+* [https://github.com/arnabdasbwn/grbl-coreXY-servo](): grbl for servo motor.
 
 ## Bill of materials
 
