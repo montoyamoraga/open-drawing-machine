@@ -6,11 +6,19 @@ This is a project by [Gaurav Patekar](https://www.media.mit.edu/people/gauravp/o
 
 This project is a low cost, do it yourself pen plotter.
 
-## Dependencies
+## Inspiration
 
-As of September 2020, we are using the following code:
+There are several projects of a pen plotter on the internet. This project is both a tutorial about how to buid one, and a survey about the landscape of drawing machines and pen plotters.
+
+## Software
+
+As of September 2020, we are using the following steps:
 
 * [https://github.com/arnabdasbwn/grbl-coreXY-servo](): grbl for servo motor.
+
+## Hardware
+
+The parts we designed are available for 3d printing.
 
 ## Bill of materials
 
