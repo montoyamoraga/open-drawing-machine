@@ -26,6 +26,10 @@ As of September 2020, we are using the following steps:
 
 * [https://github.com/arnabdasbwn/grbl-coreXY-servo](): grbl for servo motor.
 
+### Software Configuration
+
+
+
 ## Hardware
 
 The parts we designed are available for 3d printing.
