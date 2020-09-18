@@ -4,11 +4,21 @@
 
 This is a project by [Gaurav Patekar](https://www.media.mit.edu/people/gauravp/overview/) and [Aarón Montoya-Moraga](https://www.media.mit.edu/people/velouria/overview/), started in 2020, for the [Future Sketches](https://www.media.mit.edu/groups/future-sketches/overview/) research group at [MIT Media Lab](https://www.media.mit.edu/)
 
-This project is a low cost, do it yourself pen plotter.
+This project is a open source, low cost, do it yourself pen plotter.
 
 ## Inspiration
 
-There are several projects of a pen plotter on the internet. This project is both a tutorial about how to buid one, and a survey about the landscape of drawing machines and pen plotters.
+This project is both a tutorial about how to buid one, and a survey about the landscape of drawing machines and pen plotters.
+
+## Dependencies
+
+This project is built on the shoulders of the following projects:
+
+* [Grbl](https://github.com/grbl/grbl): "Grbl is a no-compromise, high performance, low cost alternative to parallel-port-based motion control for CNC milling. It will run on a vanilla Arduino (Duemillanove/Uno) as long as it sports an Atmega 328."
+
+* [Arduino Uno](https://en.wikipedia.org/wiki/Arduino_Uno): "The Arduino Uno is an open-source microcontroller board based on the Microchip ATmega328P microcontroller and developed by Arduino.cc."
+
+* [G-code](https://en.wikipedia.org/wiki/G-code): "G-code (also RS-274), which has many variants, is the common name for the most widely used computer numerical control (CNC) programming language. It is used mainly in computer-aided manufacturing to control automated machine tools."
 
 ## Software
 
