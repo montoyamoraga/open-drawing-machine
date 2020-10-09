@@ -26,6 +26,8 @@ As of September 2020, we are using the following steps:
 
 * [https://github.com/arnabdasbwn/grbl-coreXY-servo](): grbl for servo motor.
 
+The Open Drawing machine can be controlled with the [openFrameworks](https://openframeworks.cc/) addon ofxOpenDrawingMachine, available at [https://github.com/montoyamoraga/ofxOpenDrawingMachine]()
+
 ### Software Configuration
 
 On the G-code sender, you should program these:
