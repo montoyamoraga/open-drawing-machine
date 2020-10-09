@@ -1,4 +1,4 @@
-# drawing-machine
+# open-drawing-machine
 
 ## About
 
