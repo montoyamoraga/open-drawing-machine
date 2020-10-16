@@ -16,11 +16,11 @@ This project is a low cost, open source, do it yourself drawing machine.
 
 ## Credits
 
-* [Gaurav Patekar](https://www.media.mit.edu/people/gauravp/overview/): hardware design, 3D printing, 
+* [Gaurav Patekar](https://www.media.mit.edu/people/gauravp/overview/): software and hardware research, hardware design, software prototyping, 3D printing.
 
-* [Aarón Montoya-Moraga](https://www.media.mit.edu/people/velouria/overview/): documentation, library packaging
+* [Aarón Montoya-Moraga](https://www.media.mit.edu/people/velouria/overview/): software research, software packaging, documentation, library packaging.
 
-Additional C++, openFrameworks, Grbl help by [Roy Macdonald](https://github.com/roymacdonald), and inspired on the project [https://github.com/roymacdonald/ofxGrbl2][https://github.com/roymacdonald/ofxGrbl2].
+Additional C++, openFrameworks, Grbl help by [Roy Macdonald](https://github.com/roymacdonald), and inspired on the project [https://github.com/roymacdonald/ofxGrbl2](https://github.com/roymacdonald/ofxGrbl2).
 
 ## License
 
