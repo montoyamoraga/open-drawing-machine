@@ -24,4 +24,4 @@ Additional C++, openFrameworks, Grbl help by [Roy Macdonald](https://github.com/
 
 ## License
 
-MIT
+[MIT](LICENSE)
