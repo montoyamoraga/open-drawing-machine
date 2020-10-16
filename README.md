@@ -8,8 +8,9 @@ This project is a low cost, open source, do it yourself drawing machine.
 
 ## Contents
 
-* [hardware/]: CAD models for 3D printing the necessary parts.
-* [docs/]: documentation for 
+* [hardware/](hardware/): CAD models for 3D printing the necessary parts.
+* [docs/](docs/): documentation, including:
+  * [bill-of-materials.md](docs/bill-of-materials.md)
 
 ## Inspiration
 
