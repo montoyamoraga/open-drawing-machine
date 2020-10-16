@@ -1,1 +1,23 @@
+# adapted from ofZach's .gitignore
+
+# Apple
 .DS_Store
+
+# General
+build/
+obj/
+Debug*/
+Release*/
+*.mode*
+*.app/
+*.pyc
+.svn/
+
+# Xcode
+*.pbxuser
+*.perspective
+*.perspectivev3
+*.mode1v3
+*.mode2v3
+xcuserdata
+*.xcworkspace
