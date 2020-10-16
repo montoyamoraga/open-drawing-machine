@@ -24,7 +24,7 @@ This project is built on the shoulders of the following projects:
 
 As of September 2020, we are using the following steps:
 
-* [https://github.com/arnabdasbwn/grbl-coreXY-servo](): grbl for servo motor.
+* [https://github.com/arnabdasbwn/grbl-coreXY-servo](https://github.com/arnabdasbwn/grbl-coreXY-servo): fork of grbl for 2 motors for XY movement, and a servo for Z movement..
 
 The Open Drawing machine can be controlled with the [openFrameworks](https://openframeworks.cc/) addon ofxOpenDrawingMachine, available at [https://github.com/montoyamoraga/ofxOpenDrawingMachine]()
 
@@ -37,7 +37,7 @@ On the G-code sender, you should program these:
 
 ## Hardware
 
-The parts we designed are available for 3d printing.
+The parts we designed are available for 3D printing.
 
 ## Bill of materials
 
